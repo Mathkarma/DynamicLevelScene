@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Brassart/DynamicLevelScene/Content/DynamicLevelScene/Blueprints/BP_Cube.uasset",
+				"D:/Brassart/DynamicLevelScene/Content/DynamicLevelScene/Blueprints/BP_DynamicCube.uasset",
+				"D:/Brassart/DynamicLevelScene/Content/DynamicLevelScene/Maps/DynamicLevel.umap",
+				"D:/Brassart/DynamicLevelScene/Content/DynamicLevelScene/Other/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
